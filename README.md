@@ -30,7 +30,7 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.
 
 
-  * the URL to the deployed application
+  * https://budgetracker.herokuapp.com/
 
   * Github: https://github.com/clarkdkyle/Budget
 
